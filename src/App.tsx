@@ -1,5 +1,7 @@
 import Header from "./components/Header"
 import SalesCard from "./components/SalesCard"
+import Footer from "./components/Footer"
+
 
 function App() {
   return(
@@ -12,6 +14,7 @@ function App() {
           </div>
         </section>
       </main>
+      <Footer/>
     </>
   )
 }

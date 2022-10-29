@@ -6,10 +6,10 @@ function Header() {
         <header>
             <div className="dsmeta-logo-container">
                 <img src={logo} alt="DSMeta" />
+            </div>
+            <div className="dsmeta-logo-container">
                 <h1>DSMeta</h1>
-                <p>
-                    Desenvolvido por <a href="https://github.com/alepsdev">@aleps.dev</a>
-                </p>
+                <h5>Gestão de vendas</h5>
             </div>
         </header>
     )
